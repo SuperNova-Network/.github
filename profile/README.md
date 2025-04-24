@@ -1,4 +1,4 @@
-<img width=800 src="https://github.com/SuperNova-Network/.github/blob/main/profile/SuperNova-With-Padding.png?raw=true">
+<img width=800 src="https://github.com/SuperNova-Network/.github/blob/main/profile/SuperNova-With-Padding2.png?raw=true">
 <p>Cheating and bypassing network. (Est. 2023)</p>
 
 <div style="margin: 10;">
