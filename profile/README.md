@@ -1,6 +1,7 @@
 <div align="center">
   <img width="800" src="https://github.com/SuperNova-Network/.github/blob/main/profile/SuperNova-With-Padding1.png?raw=true">
 </div>
+<br>
 <p>Cheating and bypassing network. (Est. 2023)</p>
 
 <div style="margin: 10;">
